@@ -2,7 +2,7 @@ import random
 from replit import clear
 from game_data import data
 from art import logo,vs
-
+# fhfbb
 def ran_data(data):
 
   return random.choice(data);
